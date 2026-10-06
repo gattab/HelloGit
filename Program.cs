@@ -1,3 +1,2 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, GitHub!");
-Console.WriteLine($"Today is {DateTime.Now:yyyy-MM-dd}");
+Console.WriteLine($"مرحبًا يا {name}! الساعة {DateTime.Now:HH:mm}");
